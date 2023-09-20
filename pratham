@@ -1,0 +1,3 @@
+If you want to enable windows subsytem for linux and you are getting "Error:Referenced assembly cannot be found"
+1.Install Windows Subsystem for Linux from the store
+2.Go to windows powershell:wsl --install
